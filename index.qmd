@@ -1,0 +1,32 @@
+---
+title: "Md Nahin Alam"
+format: 
+  html:
+    css: index.css
+
+  
+about:
+  template: jolla
+  image: nahin.png
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:nahinalam29@gmail.com
+    - icon: twitter
+      href: https://twitter.com/mdnahinalam
+    - icon: linkedin
+      href: www.linkedin.com/in/md-nahin-alam
+    - icon: github
+      href: https://github.com/nahin29
+---
+
+::: {#hero-heading}
+Hello there! This is **Md Nahin Alam**, a graduate student of [Department of Oceanography](https://cu.ac.bd/oceanography/), [University of Chittagong](https://cu.ac.bd). Recently I completed my Honors in Oceanography with thesis which focuses on the phytoplankton dynamics and their response to marine heatwave in the Northern Bay of Bengal. On the other hand, I’m working as research assistant at [Center for Advanced Research and Innovation (CARI)](https://www.facebook.com/profile.php?id=61565725839487), where my roles are to do data analysis, report preparation, and field work. I’m particularly interested in ocean color remote sensing techniques and application of ocean color remote sensing in the optical oceanography. On the other hand, I have practical and professional experience in using ocean color remote sensing techniques with real-world data.
+
+I have extensive experience in R programming which I use for spatial data analysis, visualization. On the other I have also experience in Python, Google Earth Engine, SEADAS, ArcGIS pro.
+
+I teach courses on program statistics and data science, data visualization, spatial data science, data analysis with python, data visualization with python, learn mapping in ArcGIS Pro.
+
+Feel free contact with me [EMAIL](mailto:nahinalam29@gmail.com)
+:::

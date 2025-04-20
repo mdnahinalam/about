@@ -1,0 +1,43 @@
+/* Hero Heading Section */
+#hero-heading {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  line-height: 1.75;
+  color: #2c2c2c;
+  font-size: 1.1rem;
+}
+
+/* Rounded profile image */
+#hero-heading img {
+  border-radius: 50%;
+  width: 12rem;
+  height: auto;
+  display: block;
+  margin: 0 auto 2rem auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styling inside hero */
+#hero-heading strong {
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  color: #1a1a1a;
+}
+
+/* Link styling */
+#hero-heading a {
+  color: #0077cc;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+#hero-heading a:hover {
+  color: #005fa3;
+  text-decoration: underline;
+}
