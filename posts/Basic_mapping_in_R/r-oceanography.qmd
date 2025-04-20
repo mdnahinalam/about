@@ -2,7 +2,7 @@
 title: "Basic Mapping in R"
 date: "2025-04-20"
 categories: [R, Oceanography, Data Visualization]
-image: ocean.jpg
+image: ocean.png
 editor_options: 
   chunk_output_type: inline
 format:

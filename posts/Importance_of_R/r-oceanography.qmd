@@ -2,7 +2,7 @@
 title: "The Importance of R Programming in Oceanography"
 date: "2024-01-20"
 categories: [R, Oceanography, Data Analysis]
-image: ocean.jpg
+image: impo_r.png
 ---
 
 ## Why R Programming is Essential for Oceanography
