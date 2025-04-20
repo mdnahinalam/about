@@ -6,7 +6,7 @@ format:
 
   
 about:
-  template: jolla
+  template: trestles
   image: nahin.png
   image-width: 20em
   image-shape: round
