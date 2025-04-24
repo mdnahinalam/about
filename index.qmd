@@ -15,7 +15,7 @@ about:
     - icon: envelope
       href: mailto:nahinalam29@gmail.com
     - icon: linkedin
-      href: www.linkedin.com/in/md-nahin-alam
+      href: https://www.linkedin.com/in/md-nahin-alam/
     - icon: github
       href: https://github.com/mdnahinalam
 ---
