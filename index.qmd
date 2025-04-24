@@ -9,7 +9,7 @@ format:
 about:
   template: trestles
   image: nahin.png
-  image-width: 20em
+  image-width: 10em
   image-shape: round
   links:
     - icon: envelope
