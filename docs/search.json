@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Md Nahin Alam",
     "section": "",
-    "text": "Hello there! This is Md Nahin Alam, a Master’s student of Department of Oceanography, University of Chittagong. Recently I completed my B. Sc. (Honors) in Oceanography with undergraduate thesis which focuses on the phytoplankton dynamics and their response to marine heatwave in the Northern Bay of Bengal. On the other hand, I’m working as research assistant at Center for Advanced Research and Innovation (CARI), where my roles are to do data analysis, report preparation, and field work. I’m particularly interested in ocean color remote sensing techniques and application of ocean color remote sensing in the optical oceanography. On the other hand, I have practical and professional experience in using ocean color remote sensing techniques with real-world data.\nI have extensive experience in R programming which I use for spatial data analysis, visualization. On the other I have also experience in Python, Google Earth Engine, SEADAS, ArcGIS pro.\nI teach courses on program statistics and data science, data visualization, spatial data science, data analysis with python, data visualization with python, learn mapping in ArcGIS Pro.\nFeel free to contact with me EMAIL"
+    "text": "Hello there! I am Md Nahin Alam, currently pursuing my Master’s degree in the Department of Oceanography at the University of Chittagong.\nI recently completed my B.Sc. (Honors) in Oceanography with an undergraduate thesis focusing on phytoplankton dynamics and their response to marine heatwaves in the Northern Bay of Bengal.\n\n\n\nI serve as a Research Assistant at the Center for Advanced Research and Innovation (CARI), where my responsibilities include: - Conducting data analysis - Preparing research reports - Participating in field work\n\n\n\nMy primary research interests include: - Ocean color remote sensing techniques - Applications of remote sensing in optical oceanography - Phytoplankton dynamics - Marine heatwave impacts\n\n\n\n\nProgramming Languages: R, Python\nRemote Sensing Tools: Google Earth Engine, SEADAS\nGIS Software: ArcGIS Pro\nData Visualization: ggplot2, Plotly, Matplotlib\n\n\n\n\nI conduct courses on: - Statistics and Data Science - Data Visualization - Spatial Data Science - Data Analysis with Python - Mapping in ArcGIS Pro"
   },
   {
     "objectID": "research.html",
@@ -109,14 +109,14 @@
     "href": "cv.html",
     "title": "Md Nahin Alam",
     "section": "",
-    "text": "Bachelor of Science in Oceanography\nUniversity of Chittagong\nJanuary 2019 – Present"
+    "text": "Bachelor of Science in Oceanography\nUniversity of Chittagong\nJanuary 2019 – April 2025"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Md Nahin Alam",
     "section": "",
-    "text": "Bachelor of Science in Oceanography\nUniversity of Chittagong\nJanuary 2019 – Present"
+    "text": "Bachelor of Science in Oceanography\nUniversity of Chittagong\nJanuary 2019 – April 2025"
   },
   {
     "objectID": "cv.html#research-experience",
@@ -172,7 +172,7 @@
     "href": "projects.html",
     "title": "Project",
     "section": "",
-    "text": "Basic Mapping in R\n\n\n\nR\n\nOceanography\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n🗺️ Biogeographic Domains and Bocaina de Minas\n\n\n\nR\n\nEcology\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Oceanographic Data with R: A Dive into oce and ggplot2\n\n\n\nR\n\nOceanography\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Importance of R Programming in Oceanography\n\n\n\nR\n\nOceanography\n\nData Analysis\n\n\n\n\n\n\n\n\n\nJan 20, 2024\n\n\n\n\n\nNo matching items"
+    "text": "🗺️ Biogeographic Domains and Bocaina de Minas\n\n\n\nR\n\nEcology\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Mapping in R\n\n\n\nR\n\nOceanography\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Oceanographic Data with R: A Dive into oce and ggplot2\n\n\n\nR\n\nOceanography\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Importance of R Programming in Oceanography\n\n\n\nR\n\nOceanography\n\nData Analysis\n\n\n\n\n\n\n\n\n\nJan 20, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/biomes_brazil/r-oceanography.html",
@@ -243,5 +243,54 @@
     "title": "🗺️ Biogeographic Domains and Bocaina de Minas",
     "section": "",
     "text": "Codebiomes_brazil"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Md Nahin Alam",
+    "section": "",
+    "text": "Hello there! I am Md Nahin Alam, currently pursuing my Master’s degree in the Department of Oceanography at the University of Chittagong.\nI recently completed my B.Sc. (Honors) in Oceanography with an undergraduate thesis focusing on phytoplankton dynamics and their response to marine heatwaves in the Northern Bay of Bengal."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Md Nahin Alam",
+    "section": "",
+    "text": "I serve as a Research Assistant at the Center for Advanced Research and Innovation (CARI), where my responsibilities include: - Conducting data analysis - Preparing research reports - Participating in field work"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Md Nahin Alam",
+    "section": "",
+    "text": "My primary research interests include: - Ocean color remote sensing techniques - Applications of remote sensing in optical oceanography - Phytoplankton dynamics - Marine heatwave impacts"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Md Nahin Alam",
+    "section": "",
+    "text": "Programming Languages: R, Python\nRemote Sensing Tools: Google Earth Engine, SEADAS\nGIS Software: ArcGIS Pro\nData Visualization: ggplot2, Plotly, Matplotlib"
+  },
+  {
+    "objectID": "index.html#teaching-experience",
+    "href": "index.html#teaching-experience",
+    "title": "Md Nahin Alam",
+    "section": "",
+    "text": "I conduct courses on: - Statistics and Data Science - Data Visualization - Spatial Data Science - Data Analysis with Python - Mapping in ArcGIS Pro"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Md Nahin Alam | Oceanographer & Remote Sensing Specialist",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out for collaborations or inquiries:\n nahinalam29@gmail.com\n LinkedIn Profile\n GitHub Profile"
+  },
+  {
+    "objectID": "research.html#publications-by-year",
+    "href": "research.html#publications-by-year",
+    "title": "Research Publications",
+    "section": "",
+    "text": "All\n\n\n2024\n\n\n2023\n\n\n\n\n\nMehedi Hasan, Leion Hassan, Mamun Abdullah Al, Abu Hena Mustafa Kamal, Mohd Hanafi Idris, Muhammad Ziaul Hoque, Riffat Mahmood, Nahin Alam, Ataher Ali (2024).\nHuman intervention caused massive destruction of the second largest mangrove forest, Chakaria Sundarbans, Bangladesh.\nEnvironmental Science and Pollution Research, 31, 25329–25341.\nPDF | DOI | GitHub"
   }
 ]

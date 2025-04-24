@@ -1,6 +1,6 @@
 ---
 title: "🗺️ Biogeographic Domains and Bocaina de Minas"
-date: "2025-04-20"
+date: "2025-04-24"
 categories: [R, Ecology, Data Analysis, Data Visualization]
 image: biomes_brazil.png
 editor_options: 

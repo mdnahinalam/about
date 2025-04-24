@@ -4,7 +4,7 @@ format:
   html:
     theme:
       light: flatly
-      dark: [flatly, darkly]
+      dark: darkly
     toc: true
     fontsize: 1.1em
 listing:

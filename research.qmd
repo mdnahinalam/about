@@ -4,7 +4,7 @@ format:
   html:
     theme:
       light: flatly
-      dark: [flatly, darkly]
+      dark: darkly
     code-link: false
     code-tools: false
     css:
