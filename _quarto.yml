@@ -12,7 +12,7 @@ website:
     left: |
       All rights reserved &copy; 2024 Md Nahin Alam
     right: |
-      [Github Code Repo](https://github.com/nahin29)
+      [Github Code Repo](https://github.com/mdnahinalam)
     background: "#2C3E50"
     
   navbar:
@@ -26,14 +26,10 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - icon: mastodon
-        href: https://fosstodon.org/@mna
-      - icon: twitter
-        href: https://twitter.com/mdnahinalam
       - icon: linkedin
         href: www.linkedin.com/in/md-nahin-alam
       - icon: github
-        href: https://github.com/nahin29
+        href: https://github.com/mdnahinalam
 
 format:
   html:
