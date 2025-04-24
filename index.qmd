@@ -42,15 +42,15 @@ My primary research interests include:
 ## Technical Skills
 - **Programming Languages:** R, Python
 - **Remote Sensing Tools:** Google Earth Engine, SEADAS
-- **GIS Software:** ArcGIS Pro
+- **GIS Software:** ArcGIS Pro, QGIS
 - **Data Visualization:** ggplot2, Plotly, Matplotlib
 
 ## Teaching Experience
 I conduct courses on:
-- Statistics and Data Science
-- Data Visualization
-- Spatial Data Science
+- Statistics and Data Science in R
+- Data Visualization in R
+- Spatial Data Science in R
 - Data Analysis with Python
-- Mapping in ArcGIS Pro
+- Spatial analysis in ArcGIS Pro/QGIS
 
 :::
