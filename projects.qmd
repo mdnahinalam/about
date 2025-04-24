@@ -8,7 +8,7 @@ format:
     toc: true
     fontsize: 1.1em
 listing:
-  contents: posts/
+  contents: posts
   sort: "date desc"
   type: default
   categories: true
