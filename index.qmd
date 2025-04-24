@@ -13,12 +13,10 @@ about:
   links:
     - icon: envelope
       href: mailto:nahinalam29@gmail.com
-    - icon: twitter
-      href: https://twitter.com/mdnahinalam
     - icon: linkedin
       href: www.linkedin.com/in/md-nahin-alam
     - icon: github
-      href: https://github.com/nahin29
+      href: https://github.com/mdnahinalam
 ---
 
 ::: {#hero-heading}

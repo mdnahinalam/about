@@ -1,4 +1,4 @@
-git remote add origin https://github.com/nahin29/nahinalam.github.io.git
+git remote add origin https://github.com/mdnahinalam/about.git
 git branch -M main
 git add --all
 git commit -m "initial commit"
