@@ -3,6 +3,7 @@
     "listing": "/projects.html",
     "items": [
       "/posts/Basic_mapping_in_R/r-oceanography.html",
+      "/posts/biomes_brazil/index_biomes.html",
       "/posts/Visualizing Oceanographic Data with R A Dive into oce and ggplot2/r-oceanography.html",
       "/posts/Importance_of_R/r-oceanography.html"
     ]
