@@ -18,39 +18,33 @@ about:
       href: https://www.linkedin.com/in/md-nahin-alam/
     - icon: github
       href: https://github.com/mdnahinalam
+    - text: "<img src='images/researchgate.svg' style='height:1em; vertical-align:middle;'> "
+      href: https://www.researchgate.net/profile/Md-Nahin-Alam
 ---
 
-::: {.content-section}
+::: content-section
 ## About Me
-Hello there! I am Md Nahin Alam, currently pursuing my Master's degree in the [Department of Oceanography](https://cu.ac.bd/oceanography/) at the [University of Chittagong](https://cu.ac.bd). 
 
-I recently completed my B.Sc. (Honors) in Oceanography with an undergraduate thesis focusing on **phytoplankton dynamics and their response to marine heatwaves** in the Northern Bay of Bengal. 
+Hello there! I am Md Nahin Alam, currently pursuing my Master's degree in the [Department of Oceanography](https://cu.ac.bd/oceanography/) at the [University of Chittagong](https://cu.ac.bd).
+
+I recently completed my B.Sc. (Honors) in Oceanography with an undergraduate thesis focusing on **phytoplankton dynamics and their response to marine heatwaves** in the Northern Bay of Bengal.
 
 ## Professional Experience
-I serve as a **Research Assistant** at the [Center for Advanced Research and Innovation (CARI)](https://www.facebook.com/profile.php?id=61565725839487), where my responsibilities include:
-- Conducting data analysis
-- Preparing research reports
-- Participating in field work
+
+I serve as a **Research Assistant** at the [Center for Advanced Research and Innovation (CARI)](https://www.facebook.com/profile.php?id=61565725839487), where my responsibilities include: - Conducting data analysis - Preparing research reports - Participating in field work
 
 ## Research Interests
-My primary research interests include:
-- Ocean color remote sensing techniques
-- Applications of remote sensing in optical oceanography
-- Phytoplankton dynamics
-- Marine heatwave impacts
+
+My primary research interests include: - Ocean color remote sensing techniques - Applications of remote sensing in optical oceanography - Phytoplankton dynamics - Marine heatwave impacts
 
 ## Technical Skills
-- **Programming Languages:** R, Python
-- **Remote Sensing Tools:** Google Earth Engine, SEADAS
-- **GIS Software:** ArcGIS Pro, QGIS
-- **Data Visualization:** ggplot2, Plotly, Matplotlib
+
+-   **Programming Languages:** R, Python
+-   **Remote Sensing Tools:** Google Earth Engine, SEADAS
+-   **GIS Software:** ArcGIS Pro, QGIS
+-   **Data Visualization:** ggplot2, Plotly, Matplotlib
 
 ## Teaching Experience
-I conduct courses on:
-- Statistics and Data Science in R
-- Data Visualization in R
-- Spatial Data Science in R
-- Data Analysis with Python
-- Spatial analysis in ArcGIS Pro/QGIS
 
+I conduct courses on: - Statistics and Data Science in R - Data Visualization in R - Spatial Data Science in R - Data Analysis with Python - Spatial analysis in ArcGIS Pro/QGIS
 :::

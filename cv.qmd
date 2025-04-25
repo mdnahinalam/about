@@ -12,7 +12,6 @@ format:
 
 **Bachelor of Science in Oceanography**  
 University of Chittagong  
-January 2019 – April 2025
 
 ## Research Experience
 
@@ -33,7 +32,7 @@ April 2024 – Present
 Mehedi Hasan, Leion Hassan, Mamun Abdullah Al, Abu Hena Mustafa Kamal, Mohd Hanafi Idris, Muhammad Ziaul Hoque, Riffat Mahmood, **Md Nahin Alam**, Ataher Ali (2024).  
 "Human intervention caused massive destruction of the second largest mangrove forest, Chakaria Sundarbans, Bangladesh."  
 *Environ Sci Pollut Res* 31, 25329–25341 (2024).  
-DOI: [10.1007/s11356-024-32792-2](https://doi.org/10.1007/s11356-024-3279-2)
+DOI: [10.1007/s11356-024-32792-2](https://link.springer.com/article/10.1007/s11356-024-32792-2)
 
 ## Technical Skills
 
