@@ -30,7 +30,7 @@ website:
         href: www.linkedin.com/in/md-nahin-alam
       - icon: github
         href: https://github.com/mdnahinalam
-      - text: "<img src='images/researchgate.svg' alt='ResearchGate' style='height:1.2em; margin-top:-0.2em;'>"
+      - text: "<img src='/images/researchgate.svg' alt='ResearchGate' style='height:1.2em; margin-top:-0.2em;'>"
         href: https://www.researchgate.net/profile/Md-Nahin-Alam
     
 format:
