@@ -172,7 +172,7 @@
     "href": "projects.html",
     "title": "Project",
     "section": "",
-    "text": "🗺️ Biogeographic Domains and Bocaina de Minas\n\n\n\nR\n\nEcology\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Mapping in R\n\n\n\nR\n\nOceanography\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Oceanographic Data with R: A Dive into oce and ggplot2\n\n\n\nR\n\nOceanography\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Importance of R Programming in Oceanography\n\n\n\nR\n\nOceanography\n\nData Analysis\n\n\n\n\n\n\n\n\n\nJan 20, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Mapping the Seven Sisters of India Using R\n\n\n\nR\n\nData Visualization\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n🗺️ Biogeographic Domains and Bocaina de Minas\n\n\n\nR\n\nEcology\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Mapping in R\n\n\n\nR\n\nOceanography\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Oceanographic Data with R: A Dive into oce and ggplot2\n\n\n\nR\n\nOceanography\n\nData Analysis\n\nData Visualization\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Importance of R Programming in Oceanography\n\n\n\nR\n\nOceanography\n\nData Analysis\n\n\n\n\n\n\n\n\n\nJan 20, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/biomes_brazil/r-oceanography.html",
@@ -292,5 +292,12 @@
     "title": "Research Publications",
     "section": "",
     "text": "All\n\n\n2024\n\n\n2023\n\n\n\n\n\nMehedi Hasan, Leion Hassan, Mamun Abdullah Al, Abu Hena Mustafa Kamal, Mohd Hanafi Idris, Muhammad Ziaul Hoque, Riffat Mahmood, Nahin Alam, Ataher Ali (2024).\nHuman intervention caused massive destruction of the second largest mangrove forest, Chakaria Sundarbans, Bangladesh.\nEnvironmental Science and Pollution Research, 31, 25329–25341.\nPDF | DOI | GitHub"
+  },
+  {
+    "objectID": "posts/seven_sisters/seven_sisters.html",
+    "href": "posts/seven_sisters/seven_sisters.html",
+    "title": "Mapping the Seven Sisters of India Using R",
+    "section": "",
+    "text": "Seven Sisters of India\n\n\nThe map shown above beautifully visualizes the Seven Sister States of Northeast India along with their state capitals. Created using the R programming language, this map offers a simple yet informative geographic representation that is both educational and visually appealing.\n\n\n\nState\nCapital\n\n\n\n\nArunachal Pradesh\nItanagar\n\n\nAssam\nDispur\n\n\nNagaland\nKohima\n\n\nManipur\nImphal\n\n\nMizoram\nAizawl\n\n\nTripura\nAgartala\n\n\nMeghalaya\nShillong\n\n\n\n\nThis map highlights the power of data visualization tools in R, particularly using libraries like ggplot2, sf. These packages allow us to render geographical boundaries and annotate features like state names and capital cities efficiently.\n\nSuch visualizations are crucial in education, research, and policy planning, especially for regions like Northeast India, which often receive less mainstream focus. By leveraging tools in R, we can bring such regions into clearer geographic and socio-political context."
   }
 ]
